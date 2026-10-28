@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/seopseopi/XRD_Studio/actions/workflows/tests.yml"><img src="https://github.com/seopseopi/XRD_Studio/actions/workflows/tests.yml/badge.svg?branch=main" alt="CI: Python tests and frontend build" /></a>
+  <a href="https://github.com/seopseopi/xrd-studio/actions/workflows/tests.yml"><img src="https://github.com/seopseopi/xrd-studio/actions/workflows/tests.yml/badge.svg?branch=main" alt="CI: Python tests and frontend build" /></a>
   <img src="https://img.shields.io/badge/Python-3.9%2B-3B6CB5?logo=python&amp;logoColor=white" alt="Python 3.9 or later" />
   <img src="https://img.shields.io/badge/React-18-17324D?logo=react&amp;logoColor=61DAFB" alt="React 18" />
   <img src="https://img.shields.io/badge/Node.js-18%2B-2CA58D?logo=node.js&amp;logoColor=white" alt="Node.js 18 or later" />
@@ -111,8 +111,8 @@ flowchart LR
 Python 3.9 이상이 필요합니다. 샘플 이미지와 보정값은 저장소에 포함되어 있습니다.
 
 ```bash
-git clone https://github.com/seopseopi/XRD_Studio.git
-cd XRD_Studio
+git clone https://github.com/seopseopi/xrd-studio.git
+cd xrd-studio
 
 python3 -m venv .venv
 source .venv/bin/activate
